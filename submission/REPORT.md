@@ -71,6 +71,7 @@ Nếu Rework / Hold, việc cần làm tiếp: <<>>
 
 - **Dùng AI để làm bài** (công cụ nào, việc gì, kiểm tra thế nào; "không dùng" nếu không): <<>>
 - Gold có bị nhiễm không (bạn có nhìn pre-label hay hỏi AI trước khi gán xong)? <<không / có, như sau: ...>>
+- **Ca khó khi gán gold (`can_review`):** `img_001`: tick `can_review` cho box `person` vì không nhận rõ đặc điểm con người (không chắc có phải người thật / đủ để gán `person` hay không).
 - Máy / GPU / CVAT dùng; vướng mắc cài đặt: <<>>
 - Dùng cache `data/cache/` thay vì tự chạy? <<không / có, vì ...>>
 - Lỗi / bug script đã gặp (nếu có): <<>>
