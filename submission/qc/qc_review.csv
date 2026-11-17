@@ -1,6 +1,7 @@
 image,object_id,error_type,reviewer,note
-img_003.jpg,,,,
-img_006.jpg,,,,
-img_014.jpg,,,,
-img_031.jpg,,,,
-img_035.jpg,,,,
+img_003.jpg,,sai_vi_tri_kich_thuoc,Than,box lỏng
+img_003.jpg,,thua,Than,thừa nhãn three_wheeler
+img_006.jpg,,khong,Than,
+img_014.jpg,,khong,Than,
+img_031.jpg,,khong,Than,
+img_035.jpg,,thua,Than,gán thừa nhãn person
